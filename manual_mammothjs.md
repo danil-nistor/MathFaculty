@@ -100,6 +100,8 @@ npm install mammoth
 *   Появилась папка `node_modules` (здесь лежат библиотеки).
 *   Файл `package.json` обновился.
 
+### Оффициальный сайт
+https://www.npmjs.com/package/mammoth
 ---
 
 ## 4. Создание скрипта конвертации
