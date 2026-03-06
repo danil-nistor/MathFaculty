@@ -3,7 +3,7 @@ import sys
 
 # ================= НАСТРОЙКИ =================
 INPUT_FILE = 'edu_hours.txt'      # Имя входного файла
-OUTPUT_FILE = 'edu_hours.sql'   # Имя выходного SQL файла
+OUTPUT_FILE = 'edu_hours.sql'     # Имя выходного SQL файла
 # =============================================
 
 def escape_sql_string(s):
